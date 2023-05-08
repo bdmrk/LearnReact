@@ -29,3 +29,8 @@
 
     -- react.development is the development environment that HMR (Hot Module Replacement) feature or live debugging and easy to read code
     -- on the contrary, react.production makes code optimized, minified build, remove unnecessary code so that the application becomes smooth and fast, when it is live .
+
+## What are async and differ?
+
+    -- Async allows your script to run as soon as it's loaded, without blocking other elements on the page.
+    -- Defer means your script will only execute after the page has finished loading and it maintains the order of scripts while async doesn't.
